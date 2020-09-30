@@ -5,7 +5,7 @@ Google Colab Tricks and Best Practices
 
 # `1. Commands & Tricks`
 
-## ![✔] 1.1 Run all but
+## ✔ 1.1 Run all but
 
 **What?** Paste `%%script false --no-raise-error` at the start of the cell to avoid cell to Run when using "Run All"
 
@@ -20,7 +20,7 @@ For example EDA cells
 
 # `2. Notbook Structure Practices`
 
-## ![✔] 1.1 Structure 
+## ✔ 1.1 Structure 
 
 **What?** TBD
 
