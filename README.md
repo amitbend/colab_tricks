@@ -29,7 +29,7 @@ For example EDA cells
 
 **Why?** Looking at the implentation details of a function which already defined requires a lot of scrolling, peek definition allows you to open it side by side with your current cell, run it, scoll or copy it into a scratch cell
 
-['colab peek example'](https://github.com/amitbend/colab_tricks/blob/master/media/peek.png?raw=true)
+!['colab peek example'](https://github.com/amitbend/colab_tricks/blob/master/media/peek.png?raw=true)
 
 
 <br/><br/>
