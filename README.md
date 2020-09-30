@@ -12,6 +12,8 @@
 **Why?** Helpful when you don't want to run a cell which doesn't contribute to the overall run or just a part of the exploration phase.
 For example EDA cells 
 
+
+</br></br>
 ## ✔ 1.2 Undo tricks
 
 **What?** Use `Ctrl+Z` to undo latest changes in a cell scope, use Ctrl+M+Z for cell level undo` 
@@ -19,6 +21,15 @@ For example EDA cells
 **Why?** Helpful when you don't want to run a cell which doesn't contribute to the overall run or just a part of the exploration phase.
 For example EDA cells 
 
+
+<br/><br/>
+## ✔ 1.3 Peek definition on Colab
+
+**What?** `Ctrl+Click` top peek on the function definition. if it's your function - you can peek on the whole cell
+
+**Why?** Looking at the implentation details of a function which already defined requires a lot of scrolling, peek definition allows you to open it side by side with your current cell, run it, scoll or copy it into a scratch cell
+
+['colab peek example'](https://github.com/amitbend/colab_tricks/blob/master/media/peek.png?raw=true)
 
 
 <br/><br/>
