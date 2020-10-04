@@ -36,13 +36,23 @@ For example EDA cells
 
 
 
-# `2. Notbook Structure Practices`
+# `2. Notebook Structure Practices`
 
 ## ✔ 1.1 Structure 
 
 **What?** TBD
 
 **Why?** TBD
+
+
+<br/><br/>
+
+# `3. Utilities 
+
+## ✔ 3.1 Find and replace 
+
+To find and replace items **globally** hit `Ctrl+H`
+To find and replace in a cell hit `Ctrl+D`, it will auto select matches to the keyword one by one
 
 
 <br/><br/>
