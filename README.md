@@ -1,5 +1,6 @@
 # Google Colab Tricks and Best Practices
 
+![Colab Tricks & Best practices](https://github.com/amitbend/colab_tricks/raw/master/media/Colab%20Tricks.png)
 
 
 # `1. Commands & Tricks`
