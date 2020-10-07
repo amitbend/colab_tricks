@@ -6,6 +6,8 @@
   <img src="https://img.shields.io/badge/Last%20updates-October%202020-brightgreen" alt="October 2020"> 
 </div>
 
+<br/>
+
 
 # `1. Commands & Tricks`
 
