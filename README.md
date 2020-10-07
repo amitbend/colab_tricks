@@ -23,7 +23,7 @@ For example EDA cells
 </br></br>
 ## ✔ 1.2 Undo tricks
 
-**What?** Use `Ctrl+Z` to undo latest changes in a cell scope, use Ctrl+M+Z for cell level undo` 
+**What?** hit `Ctrl+Z` to undo latest changes in a cell scope, hit `Ctrl+M+Z` for **cell level** undo
 
 **Why?** Helpful when you don't want to run a cell which doesn't contribute to the overall run or just a part of the exploration phase.
 For example EDA cells 
