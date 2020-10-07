@@ -2,6 +2,10 @@
 
 ![Colab Tricks & Best practices](https://github.com/amitbend/colab_tricks/raw/master/media/Colab%20Tricks.png)
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Last%20updates-October%202020-brightgreen" alt="October 2020"> 
+</div>
+
 
 # `1. Commands & Tricks`
 
